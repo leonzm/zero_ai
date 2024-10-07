@@ -5,3 +5,5 @@ transformers
 evaluate
 sentencepiece
 gradio
+pytorch
+tensorflow
